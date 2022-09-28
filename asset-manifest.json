@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Desafio-FireBase-REACT/static/css/main.fe9d0225.css",
+    "main.js": "/Desafio-FireBase-REACT/static/js/main.32041862.js",
+    "static/js/787.96f7b6f3.chunk.js": "/Desafio-FireBase-REACT/static/js/787.96f7b6f3.chunk.js",
+    "index.html": "/Desafio-FireBase-REACT/index.html",
+    "main.fe9d0225.css.map": "/Desafio-FireBase-REACT/static/css/main.fe9d0225.css.map",
+    "main.32041862.js.map": "/Desafio-FireBase-REACT/static/js/main.32041862.js.map",
+    "787.96f7b6f3.chunk.js.map": "/Desafio-FireBase-REACT/static/js/787.96f7b6f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe9d0225.css",
+    "static/js/main.32041862.js"
+  ]
+}
